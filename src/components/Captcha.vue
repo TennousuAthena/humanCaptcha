@@ -52,7 +52,7 @@
                 aria-hidden="true"
                 role="presentation"
                 id="recaptcha-anchor-label"
-                ><span aria-live="polite" aria-labelledby="recaptcha-accessible-status"></span>进行人机身份验证</label
+                ><span aria-live="polite" aria-labelledby="recaptcha-accessible-status"></span>进行机人身份验证</label
               >
             </div>
           </div>
@@ -60,7 +60,7 @@
         <div class="rc-anchor-normal-footer">
           <div class="rc-anchor-logo-portrait" aria-hidden="true" role="presentation">
             <div class="rc-anchor-logo-img rc-anchor-logo-img-portrait"></div>
-            <div class="rc-anchor-logo-text">reCAPTCHA</div>
+            <div class="rc-anchor-logo-text">roCAPTCHA</div>
           </div>
           <div class="rc-anchor-pt">
             <a href="https://www.google.com/intl/zh-CN/policies/privacy/" target="_blank">隐私权</a
